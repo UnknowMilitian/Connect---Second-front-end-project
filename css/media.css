@@ -1,0 +1,44 @@
+/* Core styles */
+@media only screen and (max-width: 600px) {
+  .bold {
+    font-weight: 500 !important;
+  }
+
+  .hyper-bold {
+    font-weight: 600 !important;
+  }
+
+  section {
+    padding: 5rem 0 2.5rem 0;
+  }
+
+  .pricing-paragraph {
+    font-size: 1rem !important;      
+  }
+}
+/* /Core styles */
+
+/* ///////////////////////////////////////////// */
+
+/* Other Styles */
+@media only screen and (max-width: 500px) {
+  .result-cards {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .pricing {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .result-img {
+    width: 5rem;
+  }
+
+  .contact {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+/* /Other Styles */
